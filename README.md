@@ -10,3 +10,10 @@
 # https://github.com/Technical133/Indian.git
 # cd Indian
 # python2 Indian1.py
+
+
+
+
+
+UserName Technical
+Password Naqeeb133
